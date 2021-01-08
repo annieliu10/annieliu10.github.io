@@ -1,4 +1,4 @@
-# annieliuyt.com
+# annieliu10.github.io/
 
 Hi! Welcome to my personal website! This website is built based on a Bootstrap template, deployed through Github Pages and requires more updates and maintenance in the future.
 
