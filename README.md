@@ -4,7 +4,7 @@ Hi! Welcome to my personal website! This website is built based on a Bootstrap t
 
 
 # About Me
-I am Annie, a second year business and computer science student studying at UBC. I am intrigued by the possibilities bridged by finance and computer science, hence, I recently made an application CryptoConvenient to assist individuals with their digital investments. 
+I am Annie, a third year business and computer science student studying at UBC. I am intrigued by the possibilities bridged by finance and computer science, hence, I recently made an application CryptoConvenient to assist individuals with their digital investments. 
 
 🌎 Originally from Calgary, Alberta<br />
 🤓 Tech enthusiast<br />
